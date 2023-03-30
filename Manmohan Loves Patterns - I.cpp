@@ -4,7 +4,7 @@ int main()
 {
     int n;
     cin >> n;
-    // run over the entire row 
+    // run over the entire row
     for (int i = 1; i <= n; i++)
     {
         for (int j = 1; j <= i; j++)
